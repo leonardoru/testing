@@ -2,4 +2,5 @@ Version paralela!!1
 
 Este es un archivo creado desde la terminal
 
+Ahora lo subo al git repo
 
